@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/parkerdan/rn-font-scale.git"
   },
+  "keywords": [
+    "react-native",
+    "font size",
+    "font-scale",
+    "font",
+    "font-size"
+  ],
   "author": "Dan Parker",
   "license": "MIT",
   "bugs": {
